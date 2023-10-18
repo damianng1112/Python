@@ -1,0 +1,6 @@
+Damian:37654457:43.0:False:Non-member
+Faithful:35758475:8000.0:False:Elite Member
+Natalia:37857467:10000.0:False:Member
+Ivan:53354687:4000.0:False:Member
+Ammar:35675467:7000.0:False:Elite Member
+John:925615:500.0:False:Member
